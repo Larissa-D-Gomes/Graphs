@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Grafo direcionado não-ponderado implementado por matriz
+ * Grupo: Larissa Gomes e Tarcila Fernanda 
+ * Disciplina: Algoritmos em Grafos 
+ * PUC-MG - Ciência da Computação - Manhã
+ */
+
 /**
 Grafo não direcionado não ponderado utilizando estrutura 
 de lista de lista.
