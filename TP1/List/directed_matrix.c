@@ -1,5 +1,5 @@
 /* Grafo direcionado não-ponderado implementado por matriz
- * Grupo: Larissa Gomes e Tarcila Fernanda
+ * Grupo: Larissa Gomes e Tarcila Fernandes 
  * Disciplina: Algoritmos em Grafos 
  * PUC-MG - Ciência da Computação - Manhã
  */
